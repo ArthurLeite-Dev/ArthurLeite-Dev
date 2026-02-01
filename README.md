@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 - 🎓 Currently pursuing a degree in **Computer Science**.
 - 💻 Building a full-stack application using **Angular** for the frontend and **Java** for the backend.
-- 📫 How to reach me: **[arthur.sl.work@gmail.com OR www.linkedin.com/in/arthur-leite-/**.
+- 📫 How to reach me: **arthur.sl.work@gmail.com OR www.linkedin.com/in/arthur-leite-/**.
 
 ---
 
