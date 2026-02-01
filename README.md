@@ -37,7 +37,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLeite-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/>
+
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLeite-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
