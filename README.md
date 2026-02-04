@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FE&center=true&vCenter=true&width=435&lines=Hi there, I'm Arthur Leite!;Welcome to my profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FE&center=true&vCenter=true&width=435&lines=Hi there,I'm Arthur Leite!;Welcome to my profile!" alt="Typing SVG"/>
 </p>
 
 ### 👨‍💻 About Me
