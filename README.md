@@ -1,7 +1,7 @@
 # Hi there, I'm Arthur Leite! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70"/>
 </p>
 
 ### 👨‍💻 About Me
