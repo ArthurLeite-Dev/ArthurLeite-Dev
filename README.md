@@ -1,7 +1,7 @@
 # Hi there, I'm Arthur Leite! 👋
 
 <p align="center">
-  <img src="https://capsule-render-six.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FE&center=true&vCenter=true&width=435&lines=Hello+World!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
 </p>
 
 ### 👨‍💻 About Me
