@@ -1,7 +1,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FE&center=true&vCenter=true&width=435&lines=Hi there,I'm Arthur Leite!;Welcome to my profile!" alt="Typing SVG"/>
+  <img src="https://img.shields.io/badge/Hi_there,_I'm_Arthur_Leite!-blue?style=for-the-badge&logo=github&logoColor=white" height="60">
+  <br>
+  <img src="https://img.shields.io/badge/Welcome_to_my_profile!-success?style=flat-square" height="25">
 </p>
 
 ### 👨‍💻 About Me
