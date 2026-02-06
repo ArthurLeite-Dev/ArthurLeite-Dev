@@ -1,1 +1,34 @@
-
+<svg fill="none" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: 'Segoe UI', Ubuntu, Sans-Serif;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          height: 120px;
+          color: #3498db;
+          text-align: center;
+        }
+        .typewriter {
+          overflow: hidden;
+          border-right: .15em solid #e74c3c;
+          white-space: nowrap;
+          margin: 0 auto;
+          letter-spacing: .10em;
+          animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+          font-size: 24px;
+          font-weight: bold;
+        }
+        @keyframes typing { from { width: 0 } to { width: 100% } }
+        @keyframes blink-caret { from, to { border-color: transparent } 50% { border-color: #e74c3c; } }
+      </style>
+      <div class="container">
+        <div class="typewriter">Hi there, I'm Arthur Leite!</div>
+        <div style="color: #95a5a6; margin-top: 10px;">Welcome to my profile!</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
