@@ -1,9 +1,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hi_there,_I'm_Arthur_Leite!-blue?style=for-the-badge&logo=github&logoColor=white" height="60">
-  <br>
-  <img src="https://img.shields.io/badge/Welcome_to_my_profile!-success?style=flat-square" height="25">
+  <img src="header.svg" width="600">
 </p>
 
 ### 👨‍💻 About Me
