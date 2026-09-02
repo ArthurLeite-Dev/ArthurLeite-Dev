@@ -35,6 +35,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLeite-Dev&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.deno.dev/api/top-langs/?username=ArthurLeite-Dev&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
