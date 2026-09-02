@@ -36,6 +36,6 @@
 
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ArthurLeite-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLeite-Dev&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800" />
 </p>
 
