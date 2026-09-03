@@ -7,8 +7,6 @@
 ### 👋 About Me:
 - 💻 **Desenvolvedor Full-Stack Jr.**, com experiência prática em TypeScript, React, Node.js e Firebase.
 - 🎓 Estudante de **Ciência da Computação** na Universidade FUMEC (2026–2029) | Técnico em Tecnologia pelo COTEMIG.
-- 🚀 Idealizador do **Co-Up**, plataforma de matchmaking para gamers apresentada a investidores no **Minas Summit**.
-- 📊 Experiência com dados e automação (Excel avançado, SAP) na MRV & CO.
 - 📫 Como me encontrar: **arthur.sl.work@gmail.com** ou [linkedin.com/in/arthur-leite](https://www.linkedin.com/in/arthur-leite/)
 - 🧑‍💻 Freelance **Web Developer**.
 
