@@ -9,7 +9,7 @@
 - 🎓 Estudante de **Ciência da Computação** na Universidade FUMEC (2026–2029) | Técnico em Tecnologia pelo COTEMIG.
 - 📫 Como me encontrar: **arthur.sl.work@gmail.com** ou [linkedin.com/in/arthur-leite](https://www.linkedin.com/in/arthur-leite/)
 - 🧑‍💻 Freelance **Web Developer**.
-
+- link de portfolio: [https://portfolio.arthur-sl-work.workers.dev/](https://portfolio.arthur-sl-work.workers.dev/)
 ---
 
 ### 🛠️ Tech Stack:
