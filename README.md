@@ -7,7 +7,7 @@
 ### 👋 About Me:
 - 💻 Junior **Full-Stack Developer**, with hands-on experience in TypeScript, React, Node.js, and Firebase.
 - 🎓 **Computer Science** student at Universidade FUMEC (2026–2029) | **Technology Technician** from COTEMIG.
-- 📫 Contact: **arthur.sl.work@gmail.com** or [linkedin.com/in/arthur-leite](https://www.linkedin.com/in/arthur-leite-/)
+- 📫 Contact: **arthur.sl.work@gmail.com** or [linkedin.com/in/arthur-leite-dev](www.linkedin.com/in/arthur-leite-dev)
 - 🧑‍💻 Freelance **Web Developer**.
 - Portfolio: [https://portfolio.arthur-sl-work.workers.dev/](https://portfolio.arthur-sl-work.workers.dev/)
 ---
