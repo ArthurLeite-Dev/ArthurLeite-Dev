@@ -9,7 +9,7 @@
 - 🎓 **Computer Science** student at Universidade FUMEC (2026–2029) | **Technology Technician** from COTEMIG.
 - 📫 Contact: **arthur.sl.work@gmail.com** or [linkedin.com/in/arthur-leite-dev](https://www.linkedin.com/in/arthur-leite-dev/)
 - 🧑‍💻 **Founder** and **Software Engineer** at [DigitalSD](https://digitalsd.com.br/).
-- Portfolio: [https://portfolio.arthur-sl-work.workers.dev/](https://portfolio.arthur-sl-work.workers.dev/)
+- Portfolio: [portfolioarthurleite.vercel.app/](https://portfolioarthurleite.vercel.app/)
 ---
 
 ### 🛠️ Tech Stack:
